@@ -1,3 +1,4 @@
+asttokens==1.1.13
 backcall==0.1.0
 bleach==3.0.2
 certifi==2018.11.29
@@ -8,6 +9,7 @@ defusedxml==0.5.0
 entrypoints==0.2.3
 googledrivedownloader==0.3
 hide-code==0.5.2
+icontract==2.0.1
 idna==2.8
 ipykernel==5.1.0
 ipython==7.0.1
